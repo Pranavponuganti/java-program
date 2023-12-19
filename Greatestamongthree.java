@@ -5,7 +5,7 @@ public class Greatestamongthree
 	public static void main (String args[])
 	{
 		Scanner reader = new Scanner(System.in);
-		System.out.println("Enter Three numbers ------");
+		System.out.println("Enter Three numbers ");
 		System.out.println("1st Number =  ");
 		int n1 = reader.nextInt();
 		System.out.println("2nd Number =  ");
